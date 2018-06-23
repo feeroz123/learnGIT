@@ -1,2 +1,3 @@
 This is file2 text.
 Added in file2 to test stashing
+Added new line in file2.txt from main project repo
