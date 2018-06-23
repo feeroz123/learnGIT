@@ -1,1 +1,2 @@
 This is file2 text.
+Added in file2 to test stashing
