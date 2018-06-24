@@ -1,2 +1,3 @@
 Added new file in branch
 Adding new line in file_branch for merge
+One more line from branch3, for merge
