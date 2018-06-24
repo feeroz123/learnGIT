@@ -1,2 +1,3 @@
 This is a new file 9 created in branch 1
 Additional line added in file9 for stashing
+New line added in master
